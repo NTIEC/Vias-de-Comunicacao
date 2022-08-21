@@ -1,1 +1,2 @@
-# Vias-de-comunica-o
+# Vias de comunicação
+Maquina: TI Nspire
